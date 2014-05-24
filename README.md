@@ -48,5 +48,8 @@ http://melpa.milkbox.net/
   window-numbering
   winner
   
-  
+  ac-c-headers
+  ac-etags
+  ac-math
+  ac-slime
   
